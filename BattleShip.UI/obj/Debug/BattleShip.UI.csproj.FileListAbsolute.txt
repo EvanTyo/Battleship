@@ -1,0 +1,10 @@
+C:\Users\tyoce\OneDrive\Desktop\C138\EvanTyo\repos\AssessmentTwo\Battleship2019\BattleShip.UI\obj\Debug\BattleShip.UI.csproj.AssemblyReference.cache
+C:\Users\tyoce\OneDrive\Desktop\C138\EvanTyo\repos\AssessmentTwo\Battleship2019\BattleShip.UI\obj\Debug\BattleShip.UI.csproj.CoreCompileInputs.cache
+C:\Users\tyoce\OneDrive\Desktop\C138\EvanTyo\repos\AssessmentTwo\Battleship2019\BattleShip.UI\bin\Debug\BattleShip.UI.exe.config
+C:\Users\tyoce\OneDrive\Desktop\C138\EvanTyo\repos\AssessmentTwo\Battleship2019\BattleShip.UI\bin\Debug\BattleShip.UI.exe
+C:\Users\tyoce\OneDrive\Desktop\C138\EvanTyo\repos\AssessmentTwo\Battleship2019\BattleShip.UI\bin\Debug\BattleShip.UI.pdb
+C:\Users\tyoce\OneDrive\Desktop\C138\EvanTyo\repos\AssessmentTwo\Battleship2019\BattleShip.UI\bin\Debug\BattleShip.BLL.dll
+C:\Users\tyoce\OneDrive\Desktop\C138\EvanTyo\repos\AssessmentTwo\Battleship2019\BattleShip.UI\bin\Debug\BattleShip.BLL.pdb
+C:\Users\tyoce\OneDrive\Desktop\C138\EvanTyo\repos\AssessmentTwo\Battleship2019\BattleShip.UI\obj\Debug\BattleShip.UI.csproj.CopyComplete
+C:\Users\tyoce\OneDrive\Desktop\C138\EvanTyo\repos\AssessmentTwo\Battleship2019\BattleShip.UI\obj\Debug\BattleShip.UI.exe
+C:\Users\tyoce\OneDrive\Desktop\C138\EvanTyo\repos\AssessmentTwo\Battleship2019\BattleShip.UI\obj\Debug\BattleShip.UI.pdb

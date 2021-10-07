@@ -1,0 +1,6 @@
+C:\Users\tyoce\OneDrive\Desktop\C138\EvanTyo\repos\AssessmentTwo\Battleship2019\BattleShip.BLL\bin\Debug\BattleShip.BLL.dll
+C:\Users\tyoce\OneDrive\Desktop\C138\EvanTyo\repos\AssessmentTwo\Battleship2019\BattleShip.BLL\bin\Debug\BattleShip.BLL.pdb
+C:\Users\tyoce\OneDrive\Desktop\C138\EvanTyo\repos\AssessmentTwo\Battleship2019\BattleShip.BLL\obj\Debug\BattleShip.BLL.csproj.AssemblyReference.cache
+C:\Users\tyoce\OneDrive\Desktop\C138\EvanTyo\repos\AssessmentTwo\Battleship2019\BattleShip.BLL\obj\Debug\BattleShip.BLL.csproj.CoreCompileInputs.cache
+C:\Users\tyoce\OneDrive\Desktop\C138\EvanTyo\repos\AssessmentTwo\Battleship2019\BattleShip.BLL\obj\Debug\BattleShip.BLL.dll
+C:\Users\tyoce\OneDrive\Desktop\C138\EvanTyo\repos\AssessmentTwo\Battleship2019\BattleShip.BLL\obj\Debug\BattleShip.BLL.pdb
