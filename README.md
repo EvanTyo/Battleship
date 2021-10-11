@@ -12,7 +12,7 @@
 - I handled all of the BattleShip.UI classes
 - This includes the user inputs, outputs, and all user interface related logic
 
-**How to Use**:
+**How to Run**:
 - Visual Studio 2019 used to Create and Run program
 - Download ZIP file containing repository project
 - Open solution file (.sln) with Visual Studio
