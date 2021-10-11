@@ -2,9 +2,6 @@
 
 ### A command line simulation for the table top game of BattleShip
 
-<img src="https://user-images.githubusercontent.com/72898263/136818503-9ea00d21-6f02-40d4-afae-78bd40c42917.png" alt="Logo"
-     title="BattleShip Logo" width="585"/>
-
 **Description**:
 - This program runs a two player game of Battleship using the command line
 - Both players will be prompted to input their names, then choose their ship placements one at a time
@@ -20,3 +17,6 @@
 - Download ZIP file containing repository project
 - Open solution file (.sln) with Visual Studio
 - Click "Start" to start debugging and run the program
+
+<img src="https://user-images.githubusercontent.com/72898263/136818503-9ea00d21-6f02-40d4-afae-78bd40c42917.png" alt="Logo"
+     title="BattleShip Logo" width="585"/>
