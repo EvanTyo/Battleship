@@ -8,7 +8,8 @@
 - After each player has placed 5 ships they will each attempt to "hit" the other's ships by guessing coordinates
 - Once all of one player's ships have been "sunk" the two players can choose to play again
 
-**Contributions**:
+**Information**:
+- The program is used to demostrate apptitude with utilizing pre-completed logic to create a user interface
 - I handled all of the BattleShip.UI classes
 - This includes the user inputs, outputs, and all user interface related logic
 
